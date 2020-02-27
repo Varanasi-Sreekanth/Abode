@@ -1,6 +1,11 @@
 This is a text file which will provide the information about the Abode project from Varanasi Solutions.
 this is edited version.
 
+
+Adding more stuff to this to check  merge process
+Done my changes.
+
 this is master branch
+
 
 Thank you :)
